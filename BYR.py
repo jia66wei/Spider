@@ -3,11 +3,7 @@ import urllib2
 import time
 import MySQLdb
 
-MYSQL_DB = "app_campustopic"
-MYSQL_USER = "5nz303m111"
-MYSQL_PASS = "lizywjyhly1m2zil5khhhjw15ijm30ywl1l5hh21"
-MYSQL_HOST = "w.rdc.sae.sina.com.cn"
-MYSQL_PORT = 3307
+
 
 url = "http://m.byr.cn"
 
